@@ -11,3 +11,7 @@ Adaptogen ethical cronut hella, pabst meggings venmo freegan sriracha woke air p
 Oh. You need a little dummy text for your mockup? How quaint.
 
 abhinetri abhinetri nata gayathri kala laga danchindhe nee manase chindeshthu
+
+again i am adding the data for learning the editing files.
+
+again i am checking the file data for testing purpose because there is previous changed data in stagging place and i am adding the new data into the working directory place
